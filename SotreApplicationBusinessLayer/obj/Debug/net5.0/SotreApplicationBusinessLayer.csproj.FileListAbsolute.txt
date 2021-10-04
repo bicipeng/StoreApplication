@@ -1,0 +1,17 @@
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\SotreApplicationBusinessLayer.deps.json
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\SotreApplicationBusinessLayer.dll
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\ref\SotreApplicationBusinessLayer.dll
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\SotreApplicationBusinessLayer.pdb
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\ModelsLayer.dll
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\StoreApplicationDBContext.dll
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\ModelsLayer.pdb
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\bin\Debug\net5.0\StoreApplicationDBContext.pdb
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.AssemblyInfo.cs
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.csproj.CopyComplete
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.dll
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\ref\SotreApplicationBusinessLayer.dll
+C:\Users\13478\Desktop\StoreApplication\SotreApplicationBusinessLayer\obj\Debug\net5.0\SotreApplicationBusinessLayer.pdb

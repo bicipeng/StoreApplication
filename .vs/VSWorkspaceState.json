@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ModelsLayer",
+    "\\ModelsLayer\\EfModels",
+    "\\ModelsLayer\\ViewModels",
+    "\\SotreApplicationBusinessLayer",
+    "\\SotreApplicationBusinessLayer\\Repositories",
+    "\\StoreApplication",
+    "\\StoreApplicationDbContext",
+    "\\StoreApplicationDbContext\\Models",
+    "\\StoreApplication\\Singletons"
+  ],
+  "SelectedNode": "\\StoreApplication\\StoreApplication.csproj",
+  "PreviewInSolutionExplorer": false
+}

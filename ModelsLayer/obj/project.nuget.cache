@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/kCpOxzIvx3xIsJnKIoalcpomj8aI9WwlnDA3cSRj4Y+FoY8UoqMlis2mOH31iqgJ7p72A5PgMshvCXV4cwqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13478\\desktop\\StoreApplication\\ModelsLayer\\ModelsLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13478\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\13478\\.nuget\\packages\\serilog.sinks.console\\4.0.0\\serilog.sinks.console.4.0.0.nupkg.sha512",
+    "C:\\Users\\13478\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

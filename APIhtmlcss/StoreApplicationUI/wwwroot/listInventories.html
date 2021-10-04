@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store Inventories</title>
+</head>
+<body>
+    <p>Store Inventories </p>
+    <p id="title"></p>
+    <ul>
+        <li id="listInventories"></li>
+
+    </ul>
+    <p>Pick a Product to buy </p>
+    <div>
+        <div>
+            <label for="pickProduct">Product Id: </label>
+            <input id="productId" type="number">
+            <label for="pickProduct">Product Quantity: </label>
+            <input id="quant" type="number" value="1">
+        </div>
+        <h1>My Cart</h1>
+        <ul id="shoppingCart">
+        </ul>
+        <!--<button id="listStoreProducts" onclick="listInventories()">List Products </button>-->
+        <button id="cart" onclick="addToCart()"> Add to Cart</button>
+        <br />
+        <br />
+        <button id="checkOut" onclick="checkOut()"> Check Out </button> 
+        <button onclick="logOut()"> Log Out</button>
+    </div>
+   
+       
+     
+    <script src="invetns.js"></script>
+    <script src ="Logout.js"></script>
+</body>
+
+</html>
