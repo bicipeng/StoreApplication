@@ -1,7 +1,7 @@
 # StoreApplication
 This is a E-commerce store application website use to purchase products. Log in users are able to add to shopping cart and checkout. 
 
-##Technologies Used
+## Technologies Used
 - ASP.NET Core WebAPI
 - EntityFramework Core
 - C#
@@ -20,13 +20,13 @@ Current feature:
 - Add to shopping cart 
 - See personal orders histories 
 
-##Getting Started
+## Getting Started
 - Clone this repo
 - Set up a local database with the SQL script included in this repo, and update the connection string 
 - dotnet run
 
 
-##License
+## License
 MIT License 
 
 
