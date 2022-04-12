@@ -20,6 +20,11 @@ Current feature:
 - Add to shopping cart 
 - See personal orders histories 
 
+Further improvements
+- Better UI using a Framework
+- Better unit test
+- Include a tool such as Coverlet to test code coverage
+
 ## Getting Started
 - Clone this repo
 - Set up a local database with the SQL script included in this repo, and update the connection string 
